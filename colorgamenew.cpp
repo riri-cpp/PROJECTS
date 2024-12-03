@@ -63,7 +63,6 @@ int main(){
 
         cout << "WELCOME TO COLOR GAME!\n";
         cout << "**********************\n";
-        cout << "Let's go GAMBLING!\n";
 
         displayBalance(balance);
         displayColors(colors);

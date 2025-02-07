@@ -125,7 +125,7 @@ if did_play == True:
     if total_amount > 0:
         print(f"You earned a total of ${total_amount}")
     elif total_amount == 0:
-        print("No bets were placed.")
+        print("No bets were placed / Lost of money.")
 else:
     print("INVALID INPUT DETECTED. PLEASE TRY AGAIN")
 

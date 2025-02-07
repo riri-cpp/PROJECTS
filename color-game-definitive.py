@@ -4,9 +4,9 @@ total_amount = 0
 earned_amount = 0
 colors_list = ['RED', 'GREEN', 'BLUE', 'YELLOW', 'WHITE', 'VIOLET']
 
-print("="*30)
-print("          COLOR GAME          ")
-print("="*30)
+print("="*46)
+print(" "*17, "COLOR GAME")
+print("="*46)
 print()
 
 main_choice = input("PRESS [Y] / [N] TO PLAY COLOR GAME: ").lower()

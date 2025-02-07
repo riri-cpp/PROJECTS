@@ -101,7 +101,7 @@ while True:
                 print(f"You lost ${starting_amount}!")
                 print()
 
-                your_money = starting_amount - your_money
+                your_money = your_money - starting_amount
                 did_play = True
 
             if your_money <= 0:
